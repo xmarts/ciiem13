@@ -6,3 +6,8 @@
 	path = Jasper-Report-Integration
 	url = git@github.com:xmarts/Jasper-Report-Integration.git
 	branch = main
+
+[submodule "PDF-Viewer"]
+	path = PDF-Viewer
+	url = git@github.com:xmarts/PDF-Viewer.git
+	branch = main
