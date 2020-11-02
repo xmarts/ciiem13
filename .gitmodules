@@ -11,3 +11,8 @@
 	path = PDF-Viewer
 	url = git@github.com:xmarts/PDF-Viewer.git
 	branch = main
+
+[submodule "Client-Action-File-Download"]
+	path = Client-Action-File-Download
+	url = git@github.com:xmarts/Client-Action-File-Download.git
+	branch = main
