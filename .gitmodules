@@ -1,3 +1,8 @@
 [submodule "l10n-dominicana"]
 	path = l10n-dominicana
 	url = git@github.com:odoo-dominicana/l10n-dominicana.git
+
+[submodule "Jasper-Report-Integration"]
+	path = Jasper-Report-Integration
+	url = git@github.com:xmarts/Jasper-Report-Integration.git
+	branch = main
