@@ -26,3 +26,8 @@
 	path = ks-custom-report
 	url = git@github.com:xmarts/ks-custom-report.git
 	branch = master
+
+[submodule "xmarts_dgii_reports"]
+	path = xmarts_dgii_reports
+	url = git@github.com:xmarts/xmarts_dgii_reports.git
+	branch = v2
