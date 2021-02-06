@@ -2,11 +2,6 @@
 	path = l10n-dominicana
 	url = git@github.com:odoo-dominicana/l10n-dominicana.git
 
-[submodule "PDF-Viewer"]
-	path = PDF-Viewer
-	url = git@github.com:xmarts/PDF-Viewer.git
-	branch = main
-
 [submodule "ks-dashboard-ninja"]
 	path = ks-dashboard-ninja
 	url = git@github.com:xmarts/ks-dashboard-ninja.git
