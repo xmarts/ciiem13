@@ -2,11 +2,6 @@
 	path = l10n-dominicana
 	url = git@github.com:odoo-dominicana/l10n-dominicana.git
 
-[submodule "Jasper-Report-Integration"]
-	path = Jasper-Report-Integration
-	url = git@github.com:xmarts/Jasper-Report-Integration.git
-	branch = main
-
 [submodule "PDF-Viewer"]
 	path = PDF-Viewer
 	url = git@github.com:xmarts/PDF-Viewer.git
