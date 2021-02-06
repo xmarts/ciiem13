@@ -31,3 +31,6 @@
 	path = xmarts_dgii_reports
 	url = git@github.com:xmarts/xmarts_dgii_reports.git
 	branch = v2
+[submodule "full_accounting_kit"]
+	path = full_accounting_kit
+	url = git@github.com:xmarts/full_accounting_kit.git
