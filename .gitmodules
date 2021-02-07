@@ -22,3 +22,6 @@
 [submodule "Jasper-Report-Integration"]
 	path = Jasper-Report-Integration
 	url = git@github.com:xmarts/Jasper-Report-Integration.git
+[submodule "Client-Action-File-Download"]
+	path = Client-Action-File-Download
+	url = git@github.com:xmarts/Client-Action-File-Download.git
