@@ -25,3 +25,8 @@
 [submodule "Client-Action-File-Download"]
 	path = Client-Action-File-Download
 	url = git@github.com:xmarts/Client-Action-File-Download.git
+
+[submodule "sh-whatsapp-integration"]
+	path = sh-whatsapp-integration
+	url = git@github.com:xmarts/sh-whatsapp-integration.git
+	branch = 13.0
