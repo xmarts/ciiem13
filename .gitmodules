@@ -30,3 +30,8 @@
 	path = sh-whatsapp-integration
 	url = git@github.com:xmarts/sh-whatsapp-integration.git
 	branch = 13.0
+
+[submodule "andrickson_serial"]
+	path = andrickson_serial
+	url = git@github.com:xmarts/andrickson_serial.git
+	branch = main
