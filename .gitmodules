@@ -35,8 +35,3 @@
 	path = andrickson_serial
 	url = git@github.com:xmarts/andrickson_serial.git
 	branch = main
-
-[submodule "purchase_discount13"]
-	path = purchase_discount13
-	url = git@github.com:xmarts/purchase_discount13.git
-	branch = main
