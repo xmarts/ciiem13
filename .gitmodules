@@ -45,3 +45,8 @@
 	path = l10n_do_tss_report
 	url = git@github.com:xmarts/l10n_do_tss_report.git
 	branch = 13.0
+
+[submodule "purchase_discount13"]
+	path = purchase_discount13
+	url = git@github.com:xmarts/purchase_discount13.git
+	branch = main
