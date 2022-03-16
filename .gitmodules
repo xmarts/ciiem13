@@ -39,3 +39,8 @@
 	path = purchase_discount13
 	url = git@github.com:xmarts/purchase_discount13.git
 	branch = main
+
+[submodule "declaraciones_dgii"]
+	path = declaraciones_dgii
+	url = git@github.com:xmarts/declaraciones_dgii.git
+	branch = 13.0
