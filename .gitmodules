@@ -44,3 +44,8 @@
 	path = declaraciones_dgii
 	url = git@github.com:xmarts/declaraciones_dgii.git
 	branch = 13.0
+
+[submodule "dusal_sale"]
+	path = dusal_sale
+	url = git@github.com:xmarts/dusal_sale.git
+	branch = 13.0
