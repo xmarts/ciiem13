@@ -49,8 +49,3 @@
 	path = dusal_sale
 	url = git@github.com:xmarts/dusal_sale.git
 	branch = 13.0
-
-[submodule "l10n_do_rnc_search"]
-	path = l10n_do_rnc_search
-	url = git@github.com:xmarts/l10n_do_rnc_search.git
-	branch = 13.0
