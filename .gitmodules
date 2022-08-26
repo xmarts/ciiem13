@@ -49,7 +49,3 @@
 	path = dusal_sale
 	url = git@github.com:xmarts/dusal_sale.git
 	branch = 13.0
-[submodule "sh_all_tax_info"]
-	path = sh_all_tax_info
-	url = git@github.com:xmarts/sh_all_tax_info.git
-	branch = 13.0
