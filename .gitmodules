@@ -12,10 +12,6 @@
 	url = git@github.com:xmarts/ks-custom-report.git
 	branch = master
 
-[submodule "xmarts_dgii_reports"]
-	path = xmarts_dgii_reports
-	url = git@github.com:xmarts/xmarts_dgii_reports.git
-	branch = v2
 [submodule "full_accounting_kit"]
 	path = full_accounting_kit
 	url = git@github.com:xmarts/full_accounting_kit.git
